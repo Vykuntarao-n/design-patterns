@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T16:28:01.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S-Nlk80yjZtHAa49e38S" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-15T16:33:11.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AgUva7GxBFhiVvYI7VIj" version="24.0.7" type="github" pages="2">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="OI7tcn75wBMqMe4OQswB-9" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="OI7tcn75wBMqMe4OQswB-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OI7tcn75wBMqMe4OQswB-10" value="Identity Usecase&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Simple Login (Forms and cookies)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2, Single sign-on across sites (SAML)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Mobile App login&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Delegate Authorization&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
